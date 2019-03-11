@@ -1,2 +1,2 @@
-# Cindy-s-front-end-handbook
-My collections of front-end relative articles
+# Cindy's blogs
+My collections of technical articles
